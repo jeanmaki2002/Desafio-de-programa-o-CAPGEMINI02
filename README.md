@@ -1,1 +1,1 @@
-# Desafio-de-programa-o-CAPGEMINI02
+# Desafio-de-programação-CAPGEMINI02
